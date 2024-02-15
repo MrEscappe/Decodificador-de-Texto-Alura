@@ -22,7 +22,7 @@ A proposta é criar um simples código que codifique e decodifique uma mensagem.
 - O usuário tem a opção de codificar ou decodificar uma mensagem.
 - O Projeto funciona na versão desktop e mobile.
 
-## Built with
+## Feito com
 
 <div align="center">
 
